@@ -9,8 +9,6 @@ listing:
 ---
 
 ::: {.hero}
-# Thyagarajulu (Thyagi) Gollapalli
-
 I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.
 
 My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
