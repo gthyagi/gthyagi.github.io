@@ -12,6 +12,10 @@ about:
       href: cv.qmd
     - icon: github
       href: https://github.com/gthyagi
+    - icon: linkedin
+      href: https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/
+    - text: '<i class="ai ai-google-scholar"></i>'
+      href: https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en
     - icon: envelope
       href: mailto:gthyagi@gmail.com
 ---
