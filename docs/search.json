@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi\n\n\n\n\n\n\nRepository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics\n\n\n\n\n\n\nPython, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows\n\n\n\n\nI have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+  },
+  {
+    "objectID": "software.html#underworld-and-underworld3",
+    "href": "software.html#underworld-and-underworld3",
+    "title": "Software",
+    "section": "",
+    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi"
+  },
+  {
+    "objectID": "software.html#benchmark-repositories",
+    "href": "software.html#benchmark-repositories",
+    "title": "Software",
+    "section": "",
+    "text": "Repository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics"
+  },
+  {
+    "objectID": "software.html#tools-and-methods",
+    "href": "software.html#tools-and-methods",
+    "title": "Software",
+    "section": "",
+    "text": "Python, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows"
+  },
+  {
+    "objectID": "software.html#training-and-documentation",
+    "href": "software.html#training-and-documentation",
+    "title": "Software",
+    "section": "",
+    "text": "I have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thyagarajulu Gollapalli",
+    "section": "",
+    "text": "I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.\nMy current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.\nResearch Software Publications"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Thyagarajulu Gollapalli",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nComputational geodynamics\nNumerical models of mantle and lithosphere dynamics, including Stokes-flow systems, subduction margins, tectonic loading, and benchmark problems.\n\n\nGeophysics and Earth systems\nGravity, geoid, seismic imaging, geophysical interpretation, GIS, and links between observations and process-based models.\n\n\nResearch software\nDevelopment, testing, documentation, and training for open-source geodynamics tools, especially Underworld and Python-based modelling workflows."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Thyagarajulu Gollapalli",
+    "section": "Featured Work",
+    "text": "Featured Work\n\nUnderworld3 development: open-source development for geodynamics modelling, user-facing interfaces, testing, debugging, documentation, and training.\nMegathrust and subduction dynamics: numerical modelling of tectonic coupling and loading along active convergent margins, including the Sunda margin.\nBenchmarking and reproducibility: finite-element benchmarks, PETSc-based workflows, HPC diagnostics, and reproducible scientific computing."
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Thyagarajulu Gollapalli",
+    "section": "Selected Links",
+    "text": "Selected Links\n\nGitHub: https://github.com/gthyagi\nUnderworld3: https://github.com/underworldcode/underworld3\nUW3 annulus and spherical benchmarks: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks"
+  },
+  {
+    "objectID": "index.html#recent-notes",
+    "href": "index.html#recent-notes",
+    "title": "Thyagarajulu Gollapalli",
+    "section": "Recent Notes",
+    "text": "Recent Notes"
+  },
+  {
+    "objectID": "posts/2026-website-launch/index.html",
+    "href": "posts/2026-website-launch/index.html",
+    "title": "Launching my research website",
+    "section": "",
+    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -42,81 +126,39 @@
     "text": "I contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi\n\n\n\n\n\n\nRepository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics\n\n\n\n\n\n\nPython, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows\n\n\n\n\nI have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+    "text": "Contact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLocation: Canberra, ACT, Australia"
   },
   {
-    "objectID": "software.html#underworld-and-underworld3",
-    "href": "software.html#underworld-and-underworld3",
-    "title": "Software",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi"
+    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”\n\n\n\n\n\nUnderworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017.\n\n\n\n\n\nAssistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
   },
   {
-    "objectID": "software.html#benchmark-repositories",
-    "href": "software.html#benchmark-repositories",
-    "title": "Software",
+    "objectID": "talks.html#selected-conference-presentations",
+    "href": "talks.html#selected-conference-presentations",
+    "title": "Talks",
     "section": "",
-    "text": "Repository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics"
+    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”"
   },
   {
-    "objectID": "software.html#tools-and-methods",
-    "href": "software.html#tools-and-methods",
-    "title": "Software",
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "Talks",
     "section": "",
-    "text": "Python, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows"
+    "text": "Underworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017."
   },
   {
-    "objectID": "software.html#training-and-documentation",
-    "href": "software.html#training-and-documentation",
-    "title": "Software",
+    "objectID": "talks.html#teaching-and-outreach",
+    "href": "talks.html#teaching-and-outreach",
+    "title": "Talks",
     "section": "",
-    "text": "I have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Thyagi Gollapalli",
-    "section": "",
-    "text": "I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.\nMy current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.\nResearch Software Publications"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Thyagi Gollapalli",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n\nComputational geodynamics\nNumerical models of mantle and lithosphere dynamics, including Stokes-flow systems, subduction margins, tectonic loading, and benchmark problems.\n\n\nGeophysics and Earth systems\nGravity, geoid, seismic imaging, geophysical interpretation, GIS, and links between observations and process-based models.\n\n\nResearch software\nDevelopment, testing, documentation, and training for open-source geodynamics tools, especially Underworld and Python-based modelling workflows."
-  },
-  {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "Thyagi Gollapalli",
-    "section": "Featured Work",
-    "text": "Featured Work\n\nUnderworld3 development: open-source development for geodynamics modelling, user-facing interfaces, testing, debugging, documentation, and training.\nMegathrust and subduction dynamics: numerical modelling of tectonic coupling and loading along active convergent margins, including the Sunda margin.\nBenchmarking and reproducibility: finite-element benchmarks, PETSc-based workflows, HPC diagnostics, and reproducible scientific computing."
-  },
-  {
-    "objectID": "index.html#selected-links",
-    "href": "index.html#selected-links",
-    "title": "Thyagi Gollapalli",
-    "section": "Selected Links",
-    "text": "Selected Links\n\nGitHub: https://github.com/gthyagi\nUnderworld3: https://github.com/underworldcode/underworld3\nUW3 annulus and spherical benchmarks: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks"
-  },
-  {
-    "objectID": "index.html#recent-notes",
-    "href": "index.html#recent-notes",
-    "title": "Thyagi Gollapalli",
-    "section": "Recent Notes",
-    "text": "Recent Notes"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Assistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
   },
   {
     "objectID": "publications.html",
@@ -138,13 +180,6 @@
     "title": "Publications",
     "section": "",
     "text": "This page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
-  },
-  {
-    "objectID": "posts/2026-website-launch/index.html",
-    "href": "posts/2026-website-launch/index.html",
-    "title": "Launching my research website",
-    "section": "",
-    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
   },
   {
     "objectID": "cv.html",
@@ -201,40 +236,5 @@
     "title": "CV",
     "section": "",
     "text": "A public CV PDF can be added at assets/pdf/cv.pdf when ready."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLocation: Canberra, ACT, Australia"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”\n\n\n\n\n\nUnderworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017.\n\n\n\n\n\nAssistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
-  },
-  {
-    "objectID": "talks.html#selected-conference-presentations",
-    "href": "talks.html#selected-conference-presentations",
-    "title": "Talks",
-    "section": "",
-    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”"
-  },
-  {
-    "objectID": "talks.html#workshops",
-    "href": "talks.html#workshops",
-    "title": "Talks",
-    "section": "",
-    "text": "Underworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017."
-  },
-  {
-    "objectID": "talks.html#teaching-and-outreach",
-    "href": "talks.html#teaching-and-outreach",
-    "title": "Talks",
-    "section": "",
-    "text": "Assistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
   }
 ]

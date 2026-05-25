@@ -5,7 +5,7 @@ project:
     - .nojekyll
 
 website:
-  title: "Thyagi Gollapalli"
+  title: "Thyagarajulu Gollapalli"
   site-url: "https://gthyagi.github.io"
   description: "Geodynamics, geophysics, numerical modelling, and Underworld3 software development"
   navbar:
@@ -33,7 +33,7 @@ website:
         aria-label: "Email"
         href: mailto:gthyagi@gmail.com
   page-footer:
-    left: "© 2026 Thyagi Gollapalli"
+    left: "© 2026 Thyagarajulu Gollapalli"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:

@@ -1,4 +1,4 @@
-# Thyagi Gollapalli Academic Website
+# Thyagarajulu Gollapalli Academic Website
 
 This repository contains the Quarto source for <https://gthyagi.github.io>.
 

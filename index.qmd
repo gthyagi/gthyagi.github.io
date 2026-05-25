@@ -1,5 +1,5 @@
 ---
-title: "Thyagi Gollapalli"
+title: "Thyagarajulu Gollapalli"
 subtitle: "Geodynamics | Geophysics | Numerical Modelling | Underworld3"
 listing:
   contents: posts
