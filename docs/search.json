@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research - Thyagarajulu Gollapalli",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation."
+  },
+  {
+    "objectID": "research.html#computational-geodynamics",
+    "href": "research.html#computational-geodynamics",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Computational Geodynamics",
+    "text": "Computational Geodynamics\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling."
+  },
+  {
+    "objectID": "research.html#subduction-zone-dynamics",
+    "href": "research.html#subduction-zone-dynamics",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Subduction-Zone Dynamics",
+    "text": "Subduction-Zone Dynamics\nMy work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes."
+  },
+  {
+    "objectID": "research.html#geophysics-and-earth-observation",
+    "href": "research.html#geophysics-and-earth-observation",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Geophysics and Earth Observation",
+    "text": "Geophysics and Earth Observation\nMy background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation."
+  },
+  {
+    "objectID": "research.html#numerical-benchmarks",
+    "href": "research.html#numerical-benchmarks",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Numerical Benchmarks",
+    "text": "Numerical Benchmarks\nBenchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks."
+  },
+  {
+    "objectID": "research.html#scientific-software",
+    "href": "research.html#scientific-software",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Scientific Software",
+    "text": "Scientific Software\nI contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
   },
   {
     "objectID": "software.html",
@@ -77,88 +112,11 @@
     "text": "Recent Notes"
   },
   {
-    "objectID": "posts/2026-website-launch/index.html",
-    "href": "posts/2026-website-launch/index.html",
-    "title": "Launching my research website",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "",
-    "text": "My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation."
-  },
-  {
-    "objectID": "research.html#computational-geodynamics",
-    "href": "research.html#computational-geodynamics",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Computational Geodynamics",
-    "text": "Computational Geodynamics\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling."
-  },
-  {
-    "objectID": "research.html#subduction-zone-dynamics",
-    "href": "research.html#subduction-zone-dynamics",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Subduction-Zone Dynamics",
-    "text": "Subduction-Zone Dynamics\nMy work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes."
-  },
-  {
-    "objectID": "research.html#geophysics-and-earth-observation",
-    "href": "research.html#geophysics-and-earth-observation",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Geophysics and Earth Observation",
-    "text": "Geophysics and Earth Observation\nMy background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation."
-  },
-  {
-    "objectID": "research.html#numerical-benchmarks",
-    "href": "research.html#numerical-benchmarks",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Numerical Benchmarks",
-    "text": "Numerical Benchmarks\nBenchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks."
-  },
-  {
-    "objectID": "research.html#scientific-software",
-    "href": "research.html#scientific-software",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Scientific Software",
-    "text": "Scientific Software\nI contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLocation: Canberra, ACT, Australia"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”\n\n\n\n\n\nUnderworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017.\n\n\n\n\n\nAssistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
-  },
-  {
-    "objectID": "talks.html#selected-conference-presentations",
-    "href": "talks.html#selected-conference-presentations",
-    "title": "Talks",
-    "section": "",
-    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”"
-  },
-  {
-    "objectID": "talks.html#workshops",
-    "href": "talks.html#workshops",
-    "title": "Talks",
-    "section": "",
-    "text": "Underworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017."
-  },
-  {
-    "objectID": "talks.html#teaching-and-outreach",
-    "href": "talks.html#teaching-and-outreach",
-    "title": "Talks",
-    "section": "",
-    "text": "Assistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -180,6 +138,13 @@
     "title": "Publications",
     "section": "",
     "text": "This page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
+  },
+  {
+    "objectID": "posts/2026-website-launch/index.html",
+    "href": "posts/2026-website-launch/index.html",
+    "title": "Launching my research website",
+    "section": "",
+    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
   },
   {
     "objectID": "cv.html",
@@ -236,5 +201,40 @@
     "title": "CV",
     "section": "",
     "text": "A public CV PDF can be added at assets/pdf/cv.pdf when ready."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLocation: Canberra, ACT, Australia"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”\n\n\n\n\n\nUnderworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017.\n\n\n\n\n\nAssistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
+  },
+  {
+    "objectID": "talks.html#selected-conference-presentations",
+    "href": "talks.html#selected-conference-presentations",
+    "title": "Talks",
+    "section": "",
+    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”"
+  },
+  {
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "Talks",
+    "section": "",
+    "text": "Underworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017."
+  },
+  {
+    "objectID": "talks.html#teaching-and-outreach",
+    "href": "talks.html#teaching-and-outreach",
+    "title": "Talks",
+    "section": "",
+    "text": "Assistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
   }
 ]
