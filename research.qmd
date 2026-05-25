@@ -1,5 +1,7 @@
 ---
 title: "Research - Thyagarajulu Gollapalli"
+description: "Research themes in computational geodynamics, geophysics, numerical modelling, and open-source scientific software."
+toc-location: left
 ---
 
 My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation.

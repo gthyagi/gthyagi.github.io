@@ -8,9 +8,20 @@ website:
   title: "Thyagarajulu Gollapalli"
   site-url: "https://gthyagi.github.io"
   description: "Geodynamics, geophysics, numerical modelling, and Underworld3 software development"
+  image: assets/img/profile.jpeg
+  repo-url: https://github.com/gthyagi/gthyagi.github.io
+  search:
+    location: navbar
+    type: overlay
+  back-to-top-navigation: false
+  open-graph:
+    site-name: "Thyagarajulu Gollapalli"
+  twitter-card:
+    card-style: summary
+    image: assets/img/profile.jpeg
   navbar:
     right:
-      - text: "Home"
+      - text: "About"
         href: index.qmd
       - text: "Research"
         href: research.qmd
@@ -24,8 +35,6 @@ website:
         href: blog.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Contact"
-        href: contact.qmd
       - icon: github
         aria-label: "GitHub"
         href: https://github.com/gthyagi
@@ -33,19 +42,20 @@ website:
         aria-label: "Email"
         href: mailto:gthyagi@gmail.com
   page-footer:
-    left: "© 2026 Thyagarajulu Gollapalli"
-    right: "Built with [Quarto](https://quarto.org)"
+    center:
+      - text: "<a href='cv.html'>CV</a> &nbsp;<a href='https://github.com/gthyagi' target='_blank'><i class='bi bi-github'></i></a> &nbsp;<a href='mailto:gthyagi@gmail.com'><i class='bi bi-envelope'></i></a><br>Site made with <i class='bi bi-heart-fill'></i>, <a href='https://github.com/gthyagi/gthyagi.github.io' target='_blank'><i class='bi bi-git'></i></a>, and <a href='https://quarto.org/' target='_blank'><img src='https://quarto.org/favicon.png' width='12' alt='Quarto'> Quarto</a><br>© 2026 Thyagarajulu Gollapalli"
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
-    css: styles.css
+    theme: [default, styles.scss]
+    anchor-sections: true
     toc: true
     smooth-scroll: true
     code-copy: true
     code-overflow: wrap
+    link-external-newwindow: true
+    link-external-icon: false
+    lightbox: true
 
 execute:
   freeze: auto
