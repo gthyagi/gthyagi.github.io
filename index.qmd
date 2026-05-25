@@ -1,0 +1,55 @@
+---
+title: "Thyagi Gollapalli"
+subtitle: "Geodynamics | Geophysics | Numerical Modelling | Underworld3"
+listing:
+  contents: posts
+  sort: "date desc"
+  max-items: 3
+  type: default
+---
+
+::: {.hero}
+# Thyagarajulu (Thyagi) Gollapalli
+
+I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.
+
+My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
+
+[Research](research.qmd){.btn .btn-primary} [Software](software.qmd){.btn .btn-outline-primary} [Publications](publications.qmd){.btn .btn-outline-secondary}
+:::
+
+## Research Interests
+
+::: {.interest-grid}
+::: {.research-card}
+### Computational geodynamics
+
+Numerical models of mantle and lithosphere dynamics, including Stokes-flow systems, subduction margins, tectonic loading, and benchmark problems.
+:::
+
+::: {.research-card}
+### Geophysics and Earth systems
+
+Gravity, geoid, seismic imaging, geophysical interpretation, GIS, and links between observations and process-based models.
+:::
+
+::: {.research-card}
+### Research software
+
+Development, testing, documentation, and training for open-source geodynamics tools, especially Underworld and Python-based modelling workflows.
+:::
+:::
+
+## Featured Work
+
+- **Underworld3 development:** open-source development for geodynamics modelling, user-facing interfaces, testing, debugging, documentation, and training.
+- **Megathrust and subduction dynamics:** numerical modelling of tectonic coupling and loading along active convergent margins, including the Sunda margin.
+- **Benchmarking and reproducibility:** finite-element benchmarks, PETSc-based workflows, HPC diagnostics, and reproducible scientific computing.
+
+## Selected Links
+
+- GitHub: <https://github.com/gthyagi>
+- Underworld3: <https://github.com/underworldcode/underworld3>
+- UW3 annulus and spherical benchmarks: <https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks>
+
+## Recent Notes

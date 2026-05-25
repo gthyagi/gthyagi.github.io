@@ -1,0 +1,47 @@
+---
+title: "CV"
+---
+
+# CV
+
+## Current Position
+
+- Research Officer / Software Engineer, Australian National University, Canberra, ACT, Jan. 2026 - Present.
+
+## Previous Positions
+
+- Assistant Lecturer, Monash University, Melbourne, VIC, Jun. 2025 - Dec. 2025.
+- Senior Research Officer / Software Engineer, Monash University and AuScope, Melbourne, VIC, Aug. 2023 - Jun. 2025.
+- Imaging Geophysicist, CGG, Perth, WA, Nov. 2022 - Jun. 2023.
+
+## Education
+
+- PhD, Computational Geodynamics and Geophysics, Monash University and Indian Institute of Technology Bombay, Apr. 2018 - Nov. 2022.
+- Bachelor of Science, Mathematics major and Earth & Environmental Science minor, Indian Institute of Science, Bengaluru, Aug. 2011 - May 2015.
+
+## Research Experience
+
+- Junior Research Fellow, Gravity and Magnetics Lab, Department of Earth Sciences, IIT Bombay, May 2017 - Apr. 2018.
+- Project Assistant, Computational Geodynamics Lab, Centre for Earth Sciences, IISc, Aug. 2015 - Mar. 2017.
+- Undergraduate Research Assistant, Thin Section Lab, Centre for Earth Sciences, IISc, May 2014 - Jul. 2014.
+- Undergraduate Research Assistant, Mass Spectrometry Lab, Centre for Earth Sciences, IISc, May 2013 - Jul. 2013.
+
+## Skills
+
+- Geodynamics, geophysics, numerical modelling, GIS, groundwater modelling, and geophysical data interpretation.
+- Python scientific computing, PETSc, MPI, HPC, Matplotlib, Cartopy, Plotly, PyVista, ParaView, MATLAB, Shell, Git, Docker, QGIS.
+- Machine learning, deep learning, data analysis, data visualisation, software testing, documentation, and reproducible research workflows.
+
+## Awards
+
+- Postgraduate Publications Award, Monash University, 2022.
+- AGU Fall Meeting Student Travel Grant, 2021.
+- Graduate Research Completion Award, Monash University, 2021-2022.
+- Monash Graduate Scholarship, 2018-2021.
+- Faculty of Science Dean's International Postgraduate Research Scholarship, Monash University, 2018-2022.
+- Junior Research Fellow Scholarship, Ministry of Human Resource Development, India, 2017-2018.
+- INSPIRE Scholarship for Higher Education, Department of Science and Technology, India, 2011-2015.
+
+## Download
+
+A public CV PDF can be added at `assets/pdf/cv.pdf` when ready.

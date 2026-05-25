@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation.
+
+## Computational Geodynamics
+
+I work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling.
+
+## Subduction-Zone Dynamics
+
+My work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes.
+
+## Geophysics and Earth Observation
+
+My background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation.
+
+## Numerical Benchmarks
+
+Benchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks.
+
+## Scientific Software
+
+I contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments.

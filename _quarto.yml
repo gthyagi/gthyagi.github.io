@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thyagi Gollapalli"
+  site-url: "https://gthyagi.github.io"
+  description: "Geodynamics, geophysics, numerical modelling, and Underworld3 software development"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - icon: github
+        aria-label: "GitHub"
+        href: https://github.com/gthyagi
+      - icon: envelope
+        aria-label: "Email"
+        href: mailto:gthyagi@gmail.com
+  page-footer:
+    left: "© 2026 Thyagi Gollapalli"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+
+execute:
+  freeze: auto

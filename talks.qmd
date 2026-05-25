@@ -1,0 +1,27 @@
+---
+title: "Talks"
+---
+
+# Talks and Presentations
+
+## Selected Conference Presentations
+
+- European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. "Megathrust seismicity through the lens of explainable artificial intelligence."
+- American Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. "Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces."
+- American Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. "Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling."
+
+## Workshops
+
+- Underworld workshop at Curtin University, 2025.
+- Underworld workshop at AuScope HQ, 2024.
+- Underworld workshop at University of Sydney, 2023.
+- Victorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.
+- Graduate Research Conference, Monash University, 19 Nov 2019.
+- Quantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017.
+
+## Teaching and Outreach
+
+- Assistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.
+- Teaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.
+- Teaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.
+- Open Day Demonstrator, Monash University and IISc.

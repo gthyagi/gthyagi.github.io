@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi\n\n\n\n\n\n\nRepository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics\n\n\n\n\n\n\nPython, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows\n\n\n\n\nI have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+  },
+  {
+    "objectID": "software.html#underworld-and-underworld3",
+    "href": "software.html#underworld-and-underworld3",
+    "title": "Software",
+    "section": "",
+    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi"
+  },
+  {
+    "objectID": "software.html#benchmark-repositories",
+    "href": "software.html#benchmark-repositories",
+    "title": "Software",
+    "section": "",
+    "text": "Repository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics"
+  },
+  {
+    "objectID": "software.html#tools-and-methods",
+    "href": "software.html#tools-and-methods",
+    "title": "Software",
+    "section": "",
+    "text": "Python, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows"
+  },
+  {
+    "objectID": "software.html#training-and-documentation",
+    "href": "software.html#training-and-documentation",
+    "title": "Software",
+    "section": "",
+    "text": "I have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thyagi Gollapalli",
+    "section": "",
+    "text": "I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.\nMy current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.\nResearch Software Publications"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Thyagi Gollapalli",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nComputational geodynamics\nNumerical models of mantle and lithosphere dynamics, including Stokes-flow systems, subduction margins, tectonic loading, and benchmark problems.\n\n\nGeophysics and Earth systems\nGravity, geoid, seismic imaging, geophysical interpretation, GIS, and links between observations and process-based models.\n\n\nResearch software\nDevelopment, testing, documentation, and training for open-source geodynamics tools, especially Underworld and Python-based modelling workflows."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Thyagi Gollapalli",
+    "section": "Featured Work",
+    "text": "Featured Work\n\nUnderworld3 development: open-source development for geodynamics modelling, user-facing interfaces, testing, debugging, documentation, and training.\nMegathrust and subduction dynamics: numerical modelling of tectonic coupling and loading along active convergent margins, including the Sunda margin.\nBenchmarking and reproducibility: finite-element benchmarks, PETSc-based workflows, HPC diagnostics, and reproducible scientific computing."
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Thyagi Gollapalli",
+    "section": "Selected Links",
+    "text": "Selected Links\n\nGitHub: https://github.com/gthyagi\nUnderworld3: https://github.com/underworldcode/underworld3\nUW3 annulus and spherical benchmarks: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks"
+  },
+  {
+    "objectID": "index.html#recent-notes",
+    "href": "index.html#recent-notes",
+    "title": "Thyagi Gollapalli",
+    "section": "Recent Notes",
+    "text": "Recent Notes"
+  },
+  {
+    "objectID": "posts/2026-website-launch/index.html",
+    "href": "posts/2026-website-launch/index.html",
+    "title": "Launching my research website",
+    "section": "",
+    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation.\n\n\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling.\n\n\n\nMy work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes.\n\n\n\nMy background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation.\n\n\n\nBenchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks.\n\n\n\nI contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
+  },
+  {
+    "objectID": "research.html#computational-geodynamics",
+    "href": "research.html#computational-geodynamics",
+    "title": "Research",
+    "section": "",
+    "text": "I work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling."
+  },
+  {
+    "objectID": "research.html#subduction-zone-dynamics",
+    "href": "research.html#subduction-zone-dynamics",
+    "title": "Research",
+    "section": "",
+    "text": "My work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes."
+  },
+  {
+    "objectID": "research.html#geophysics-and-earth-observation",
+    "href": "research.html#geophysics-and-earth-observation",
+    "title": "Research",
+    "section": "",
+    "text": "My background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation."
+  },
+  {
+    "objectID": "research.html#numerical-benchmarks",
+    "href": "research.html#numerical-benchmarks",
+    "title": "Research",
+    "section": "",
+    "text": "Benchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks."
+  },
+  {
+    "objectID": "research.html#scientific-software",
+    "href": "research.html#scientific-software",
+    "title": "Research",
+    "section": "",
+    "text": "I contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLocation: Canberra, ACT, Australia"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”\n\n\n\n\n\nUnderworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017.\n\n\n\n\n\nAssistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
+  },
+  {
+    "objectID": "talks.html#selected-conference-presentations",
+    "href": "talks.html#selected-conference-presentations",
+    "title": "Talks",
+    "section": "",
+    "text": "European Geosciences Union General Assembly, Oral Session, 23-27 May 2022. “Megathrust seismicity through the lens of explainable artificial intelligence.”\nAmerican Geophysical Union Fall Meeting, Oral Session, 13-17 Dec 2021. “Subduction dynamics and tectonic coupling along seismically active margin: the relevance of trench-parallel forces.”\nAmerican Geophysical Union Fall Meeting, Poster Session, 9-13 Dec 2019. “Megathrust seismotectonics of the Southeast Asian convergent margin: insights from three-dimensional spherical geodynamic modelling.”"
+  },
+  {
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "Talks",
+    "section": "",
+    "text": "Underworld workshop at Curtin University, 2025.\nUnderworld workshop at AuScope HQ, 2024.\nUnderworld workshop at University of Sydney, 2023.\nVictorian Universities Symposium on Computational Geodynamics, 3 Nov 2021.\nGraduate Research Conference, Monash University, 19 Nov 2019.\nQuantitative Seismology and Microseismicity using Geophysical and Geochemical Techniques, IISc and Shell Technology Centre, Bengaluru, 2017."
+  },
+  {
+    "objectID": "talks.html#teaching-and-outreach",
+    "href": "talks.html#teaching-and-outreach",
+    "title": "Talks",
+    "section": "",
+    "text": "Assistant Lecturer, Monash University: EAE3032 Geophysical Interpretations and EAE5053 Advanced Spatial Analysis and Modelling.\nTeaching Assistant, EAE3532 Physics of the Solid Earth, Monash University, 2019.\nTeaching Assistant, EAE1011 Earth, Atmosphere and Environment 1, Monash University, 2020.\nOpen Day Demonstrator, Monash University and IISc."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. Earth and Planetary Science Letters. Submitted.\nCapitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. Nature Communications. https://doi.org/10.1038/s41467-025-65824-7\nMoresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. Journal of Open Source Software. https://doi.org/10.21105/joss.07831\nGraciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. Journal of Geophysical Research: Solid Earth. https://doi.org/10.1029/2024JB028774\nZuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. Tectonics. https://doi.org/10.1029/2022TC007242\nGhosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. Geophysical Research Letters. https://doi.org/10.1002/2017GL075392\n\n\n\n\nThis page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. Earth and Planetary Science Letters. Submitted.\nCapitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. Nature Communications. https://doi.org/10.1038/s41467-025-65824-7\nMoresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. Journal of Open Source Software. https://doi.org/10.21105/joss.07831\nGraciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. Journal of Geophysical Research: Solid Earth. https://doi.org/10.1029/2024JB028774\nZuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. Tectonics. https://doi.org/10.1029/2022TC007242\nGhosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. Geophysical Research Letters. https://doi.org/10.1002/2017GL075392"
+  },
+  {
+    "objectID": "publications.html#reports-and-manuscripts",
+    "href": "publications.html#reports-and-manuscripts",
+    "title": "Publications",
+    "section": "",
+    "text": "This page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Research Officer / Software Engineer, Australian National University, Canberra, ACT, Jan. 2026 - Present.\n\n\n\n\n\nAssistant Lecturer, Monash University, Melbourne, VIC, Jun. 2025 - Dec. 2025.\nSenior Research Officer / Software Engineer, Monash University and AuScope, Melbourne, VIC, Aug. 2023 - Jun. 2025.\nImaging Geophysicist, CGG, Perth, WA, Nov. 2022 - Jun. 2023.\n\n\n\n\n\nPhD, Computational Geodynamics and Geophysics, Monash University and Indian Institute of Technology Bombay, Apr. 2018 - Nov. 2022.\nBachelor of Science, Mathematics major and Earth & Environmental Science minor, Indian Institute of Science, Bengaluru, Aug. 2011 - May 2015.\n\n\n\n\n\nJunior Research Fellow, Gravity and Magnetics Lab, Department of Earth Sciences, IIT Bombay, May 2017 - Apr. 2018.\nProject Assistant, Computational Geodynamics Lab, Centre for Earth Sciences, IISc, Aug. 2015 - Mar. 2017.\nUndergraduate Research Assistant, Thin Section Lab, Centre for Earth Sciences, IISc, May 2014 - Jul. 2014.\nUndergraduate Research Assistant, Mass Spectrometry Lab, Centre for Earth Sciences, IISc, May 2013 - Jul. 2013.\n\n\n\n\n\nGeodynamics, geophysics, numerical modelling, GIS, groundwater modelling, and geophysical data interpretation.\nPython scientific computing, PETSc, MPI, HPC, Matplotlib, Cartopy, Plotly, PyVista, ParaView, MATLAB, Shell, Git, Docker, QGIS.\nMachine learning, deep learning, data analysis, data visualisation, software testing, documentation, and reproducible research workflows.\n\n\n\n\n\nPostgraduate Publications Award, Monash University, 2022.\nAGU Fall Meeting Student Travel Grant, 2021.\nGraduate Research Completion Award, Monash University, 2021-2022.\nMonash Graduate Scholarship, 2018-2021.\nFaculty of Science Dean’s International Postgraduate Research Scholarship, Monash University, 2018-2022.\nJunior Research Fellow Scholarship, Ministry of Human Resource Development, India, 2017-2018.\nINSPIRE Scholarship for Higher Education, Department of Science and Technology, India, 2011-2015.\n\n\n\n\nA public CV PDF can be added at assets/pdf/cv.pdf when ready."
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "CV",
+    "section": "",
+    "text": "Research Officer / Software Engineer, Australian National University, Canberra, ACT, Jan. 2026 - Present."
+  },
+  {
+    "objectID": "cv.html#previous-positions",
+    "href": "cv.html#previous-positions",
+    "title": "CV",
+    "section": "",
+    "text": "Assistant Lecturer, Monash University, Melbourne, VIC, Jun. 2025 - Dec. 2025.\nSenior Research Officer / Software Engineer, Monash University and AuScope, Melbourne, VIC, Aug. 2023 - Jun. 2025.\nImaging Geophysicist, CGG, Perth, WA, Nov. 2022 - Jun. 2023."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "PhD, Computational Geodynamics and Geophysics, Monash University and Indian Institute of Technology Bombay, Apr. 2018 - Nov. 2022.\nBachelor of Science, Mathematics major and Earth & Environmental Science minor, Indian Institute of Science, Bengaluru, Aug. 2011 - May 2015."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "",
+    "text": "Junior Research Fellow, Gravity and Magnetics Lab, Department of Earth Sciences, IIT Bombay, May 2017 - Apr. 2018.\nProject Assistant, Computational Geodynamics Lab, Centre for Earth Sciences, IISc, Aug. 2015 - Mar. 2017.\nUndergraduate Research Assistant, Thin Section Lab, Centre for Earth Sciences, IISc, May 2014 - Jul. 2014.\nUndergraduate Research Assistant, Mass Spectrometry Lab, Centre for Earth Sciences, IISc, May 2013 - Jul. 2013."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Geodynamics, geophysics, numerical modelling, GIS, groundwater modelling, and geophysical data interpretation.\nPython scientific computing, PETSc, MPI, HPC, Matplotlib, Cartopy, Plotly, PyVista, ParaView, MATLAB, Shell, Git, Docker, QGIS.\nMachine learning, deep learning, data analysis, data visualisation, software testing, documentation, and reproducible research workflows."
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "CV",
+    "section": "",
+    "text": "Postgraduate Publications Award, Monash University, 2022.\nAGU Fall Meeting Student Travel Grant, 2021.\nGraduate Research Completion Award, Monash University, 2021-2022.\nMonash Graduate Scholarship, 2018-2021.\nFaculty of Science Dean’s International Postgraduate Research Scholarship, Monash University, 2018-2022.\nJunior Research Fellow Scholarship, Ministry of Human Resource Development, India, 2017-2018.\nINSPIRE Scholarship for Higher Education, Department of Science and Technology, India, 2011-2015."
+  },
+  {
+    "objectID": "cv.html#download",
+    "href": "cv.html#download",
+    "title": "CV",
+    "section": "",
+    "text": "A public CV PDF can be added at assets/pdf/cv.pdf when ready."
+  }
+]

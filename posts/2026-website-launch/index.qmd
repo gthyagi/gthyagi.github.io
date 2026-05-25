@@ -1,0 +1,7 @@
+---
+title: "Launching my research website"
+date: 2026-05-25
+categories: [research, software, quarto]
+---
+
+This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing.

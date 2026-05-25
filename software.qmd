@@ -1,0 +1,42 @@
+---
+title: "Software"
+---
+
+# Software
+
+## Underworld and Underworld3
+
+I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.
+
+Underworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.
+
+- Underworld3 upstream: <https://github.com/underworldcode/underworld3>
+- GitHub profile: <https://github.com/gthyagi>
+
+## Benchmark Repositories
+
+### UW3 Annulus and Spherical Benchmarks
+
+Repository: <https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks>
+
+This work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:
+
+- Annulus and spherical-shell Stokes-flow benchmarks
+- Taylor-Hood finite elements
+- Curved-domain and spherical geometry problems
+- Penalty and Nitsche-style free-slip boundary conditions
+- Boundary diagnostics and convergence checks
+- HPC scaling and PETSc timing diagnostics
+
+## Tools and Methods
+
+- Python, Shell, AWK, MATLAB, C, Julia, R
+- PETSc, petsc4py, MPI, HPC workflows
+- SymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView
+- Underworld, CitcomS, Litmod-3D, ASPECT, GPlates
+- Gmsh, HDF5, XDMF, Git, Docker
+- GIS and geophysical data processing workflows
+
+## Training and Documentation
+
+I have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney.
