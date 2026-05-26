@@ -41,7 +41,9 @@ website:
 
 format:
   html:
-    theme: [default, styles.scss]
+    theme:
+      light: [default, styles.scss]
+      dark: [darkly, styles-dark.scss]
     anchor-sections: true
     toc: true
     smooth-scroll: true

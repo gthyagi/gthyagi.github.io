@@ -3,40 +3,42 @@
 
 /*-- scss:defaults --*/
 
-$primary-color: #416f95;
-$blue: #416f95;
-$primary-color-dark: #203647;
-$secondary-color: #4f9b63;
-$secondary-color-trans: rgba(79, 155, 99, 0.2);
-$tertiary-color: #9a6f4f;
+$primary-color: #0072b2 !default;
+$blue: $primary-color !default;
+$primary-color-dark: #1f2933 !default;
+$secondary-color: #009e73 !default;
+$secondary-color-trans: rgba(0, 158, 115, 0.2) !default;
+$tertiary-color: #d55e00 !default;
+$surface-color: #ffffff !default;
+$shadow-color: rgba(31, 41, 51, 0.12) !default;
 
-$body-bg: #f3f7fa;
-$body-color: $primary-color-dark;
-$link-color: $primary-color;
-$link-hover-color: $secondary-color;
+$body-bg: #f7faf9 !default;
+$body-color: $primary-color-dark !default;
+$link-color: $primary-color !default;
+$link-hover-color: $secondary-color !default;
 
-$footer-bg: $primary-color;
-$footer-fg: white;
-$navbar-bg: $body-bg;
-$navbar-fg: $primary-color;
-$navbar-hl: $secondary-color;
-$dropdown-link-color: $primary-color;
+$footer-bg: $primary-color !default;
+$footer-fg: #ffffff !default;
+$navbar-bg: $body-bg !default;
+$navbar-fg: $primary-color !default;
+$navbar-hl: $secondary-color !default;
+$dropdown-link-color: $primary-color !default;
 
-$navbar-font-family: "Raleway";
-$headings-font-family: "Raleway";
-$headings-color: $primary-color-dark;
-$font-family-base: "Raleway";
+$navbar-font-family: "Raleway" !default;
+$headings-font-family: "Raleway" !default;
+$headings-color: $primary-color-dark !default;
+$font-family-base: "Raleway" !default;
 
-$code-block-bg: white;
-$code-block-border: false;
-$code-block-border-radius: 5px;
-$code-color: $primary-color-dark;
-$code-bg: white;
-$border-color: rgba($blue, 0.14);
+$code-block-bg: $surface-color !default;
+$code-block-border: false !default;
+$code-block-border-radius: 5px !default;
+$code-color: $primary-color-dark !default;
+$code-bg: $surface-color !default;
+$border-color: rgba($blue, 0.16) !default;
 
-$pagination-active-bg: $primary-color;
-$pagination-active-color: white;
-$pagination-active-border-color: $primary-color;
+$pagination-active-bg: $primary-color !default;
+$pagination-active-color: #ffffff !default;
+$pagination-active-border-color: $primary-color !default;
 
 /*-- scss:rules --*/
 
@@ -88,7 +90,7 @@ div.quarto-about-trestles .about-entity .about-link {
   background-color: $primary-color;
   border: solid 1.5px $primary-color;
   border-radius: 5px;
-  color: white;
+  color: $footer-fg;
   font-weight: 700;
   text-decoration: none;
   transition: all 0.2s ease;
@@ -97,12 +99,12 @@ div.quarto-about-trestles .about-entity .about-link {
 div.quarto-about-trestles .about-entity .about-link:hover {
   background-color: $secondary-color;
   border-color: $secondary-color;
-  color: white;
+  color: $footer-fg;
   transform: translateY(-1px);
 }
 
 div.quarto-about-trestles img.about-image {
-  box-shadow: 0 12px 30px rgba(32, 54, 71, 0.18);
+  box-shadow: 0 12px 30px $shadow-color;
   object-fit: cover;
   object-position: center center;
 }
@@ -127,10 +129,10 @@ div.quarto-about-trestles img.about-image {
 }
 
 .update-card {
-  background: white;
+  background: $surface-color;
   border: 1px solid rgba($blue, 0.16);
   border-radius: 5px;
-  box-shadow: 0 4px 16px rgba(32, 54, 71, 0.06);
+  box-shadow: 0 4px 16px $shadow-color;
   display: none;
   min-height: 8rem;
   overflow-wrap: break-word;
@@ -165,10 +167,10 @@ div.quarto-about-trestles img.about-image {
 }
 
 .research-card {
-  background: white;
+  background: $surface-color;
   border: 1px solid rgba($blue, 0.16);
   border-radius: 5px;
-  box-shadow: 0 4px 16px rgba(32, 54, 71, 0.06);
+  box-shadow: 0 4px 16px $shadow-color;
   padding: 1rem;
 }
 
@@ -203,11 +205,13 @@ div.sourceCode {
 }
 
 footer.footer {
+  background-color: $footer-bg;
+  color: $footer-fg;
   font-size: 0.95rem;
 }
 
 footer.footer a {
-  color: white;
+  color: $footer-fg;
 }
 
 @media (max-width: 767px) {

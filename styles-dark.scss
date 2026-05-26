@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+$primary-color: #56b4e9;
+$blue: $primary-color;
+$primary-color-dark: #e6eef2;
+$secondary-color: #66c2a5;
+$secondary-color-trans: rgba(102, 194, 165, 0.22);
+$tertiary-color: #e69f00;
+$surface-color: #18242e;
+$shadow-color: rgba(0, 0, 0, 0.28);
+
+$body-bg: #101820;
+$body-color: $primary-color-dark;
+$link-color: $primary-color;
+$link-hover-color: $secondary-color;
+
+$footer-bg: #005a8b;
+$footer-fg: #f7faf9;
+$navbar-bg: $body-bg;
+$navbar-fg: $primary-color;
+$navbar-hl: $secondary-color;
+$dropdown-bg: $surface-color;
+$dropdown-link-color: $primary-color;
+$dropdown-link-hover-color: $secondary-color;
+$dropdown-link-hover-bg: rgba($secondary-color, 0.1);
+
+$headings-color: $primary-color-dark;
+$code-block-bg: $surface-color;
+$code-color: $primary-color-dark;
+$code-bg: $surface-color;
+$border-color: rgba($primary-color, 0.22);
+
+@import "styles";
