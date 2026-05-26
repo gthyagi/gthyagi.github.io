@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-# Publications
-
 ## Journal Articles
 
 1. Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. *Earth and Planetary Science Letters*. Submitted.

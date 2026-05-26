@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
-
 For research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.
 
 - Email: <gthyagi@gmail.com>

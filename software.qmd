@@ -2,8 +2,6 @@
 title: "Software"
 ---
 
-# Software
-
 ## Underworld and Underworld3
 
 I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.

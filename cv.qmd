@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-# CV
-
 ## Current Position
 
 - Research Officer / Software Engineer, Australian National University, Canberra, ACT, Jan. 2026 - Present.
