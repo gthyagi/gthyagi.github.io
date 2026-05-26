@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-66d747cc949ab7396359dfe6596fb78b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-15a55d5ee54e2426a8d8875ad7c3880f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -177,39 +177,8 @@ ul.task-list li input[type="checkbox"] {
 <p>My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.</p>
 <section id="latest-publications-and-blog-posts" class="level4 home-updates">
 <h4 data-anchor-id="latest-publications-and-blog-posts">Latest publications and blog posts</h4>
-<div class="updates-marquee" aria-label="Latest publications and blog posts">
-<div class="updates-track">
-<div class="update-card">
-<p><strong>Blog</strong><br>
-<a href="posts/2026-website-launch/">Launching my research website</a><br>
-2026-05-25</p>
-</div>
-<div class="update-card">
-<p><strong>Publication</strong><br>
-<a href="./publications.html">Bridging the gap between subduction dynamics and the long-term strength of megathrusts</a><br>
-Nature Communications, 2025-11-28</p>
-</div>
-<div class="update-card">
-<p><strong>Blog</strong><br>
-<a href="posts/2026-website-launch/">Launching my research website</a><br>
-2026-05-25</p>
-</div>
-<div class="update-card">
-<p><strong>Publication</strong><br>
-<a href="./publications.html">Bridging the gap between subduction dynamics and the long-term strength of megathrusts</a><br>
-Nature Communications, 2025-11-28</p>
-</div>
-<div class="update-card">
-<p><strong>Blog</strong><br>
-<a href="posts/2026-website-launch/">Launching my research website</a><br>
-2026-05-25</p>
-</div>
-<div class="update-card">
-<p><strong>Publication</strong><br>
-<a href="./publications.html">Bridging the gap between subduction dynamics and the long-term strength of megathrusts</a><br>
-Nature Communications, 2025-11-28</p>
-</div>
-<div class="update-card">
+<div class="updates-rotator" data-updates-rotator="" aria-live="polite" aria-label="Latest publications and blog posts">
+<div class="update-card is-active">
 <p><strong>Blog</strong><br>
 <a href="posts/2026-website-launch/">Launching my research website</a><br>
 2026-05-25</p>
@@ -220,7 +189,27 @@ Nature Communications, 2025-11-28</p>
 Nature Communications, 2025-11-28</p>
 </div>
 </div>
-</div>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const rotator = document.querySelector("[data-updates-rotator]");
+  if (!rotator) return;
+  const cards = Array.from(rotator.querySelectorAll(".update-card"));
+  if (cards.length <= 1) return;
+  let activeIndex = 0;
+  const showCard = (nextIndex) => {
+    cards.forEach((card, index) => {
+      const isActive = index === nextIndex;
+      card.classList.toggle("is-active", isActive);
+      card.toggleAttribute("hidden", !isActive);
+    });
+  };
+  showCard(activeIndex);
+  window.setInterval(() => {
+    activeIndex = (activeIndex + 1) % cards.length;
+    showCard(activeIndex);
+  }, 10000);
+});
+</script>
 </section>
 
 

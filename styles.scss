@@ -120,45 +120,10 @@ div.quarto-about-trestles img.about-image {
   margin-bottom: 0.75rem;
 }
 
-.updates-marquee {
+.updates-rotator {
   max-width: 100%;
   min-width: 0;
-  overflow: hidden;
-  position: relative;
   width: 100%;
-}
-
-.updates-marquee::before,
-.updates-marquee::after {
-  content: "";
-  height: 100%;
-  pointer-events: none;
-  position: absolute;
-  top: 0;
-  width: 3rem;
-  z-index: 2;
-}
-
-.updates-marquee::before {
-  background: linear-gradient(90deg, $body-bg, rgba($body-bg, 0));
-  left: 0;
-}
-
-.updates-marquee::after {
-  background: linear-gradient(270deg, $body-bg, rgba($body-bg, 0));
-  right: 0;
-}
-
-.updates-track {
-  animation: updates-scroll 36s linear infinite;
-  display: flex;
-  gap: 1rem;
-  width: max-content;
-}
-
-.updates-marquee:hover .updates-track,
-.updates-marquee:focus-within .updates-track {
-  animation-play-state: paused;
 }
 
 .update-card {
@@ -166,10 +131,19 @@ div.quarto-about-trestles img.about-image {
   border: 1px solid rgba($blue, 0.16);
   border-radius: 5px;
   box-shadow: 0 4px 16px rgba(32, 54, 71, 0.06);
-  flex: 0 0 280px;
+  display: none;
   min-height: 8rem;
   overflow-wrap: break-word;
   padding: 0.85rem;
+  width: 100%;
+}
+
+.update-card.is-active {
+  display: block;
+}
+
+.update-card[hidden] {
+  display: none;
 }
 
 .update-card p {
@@ -181,16 +155,6 @@ div.quarto-about-trestles img.about-image {
   font-size: 0.85rem;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-}
-
-@keyframes updates-scroll {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(calc(-50% - 0.5rem));
-  }
 }
 
 .interest-grid {
@@ -251,7 +215,4 @@ footer.footer a {
     text-align: center;
   }
 
-  .update-card {
-    flex-basis: 240px;
-  }
 }

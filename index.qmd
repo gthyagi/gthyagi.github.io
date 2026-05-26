@@ -31,45 +31,8 @@ My current work focuses on the Underworld geodynamics codebase, with interests i
 ::: {.home-updates}
 #### Latest publications and blog posts
 
-::: {.updates-marquee aria-label="Latest publications and blog posts"}
-::: {.updates-track}
-::: {.update-card}
-**Blog**  
-[Launching my research website](posts/2026-website-launch/)  
-2026-05-25
-:::
-
-::: {.update-card}
-**Publication**  
-[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
-Nature Communications, 2025-11-28
-:::
-
-::: {.update-card}
-**Blog**  
-[Launching my research website](posts/2026-website-launch/)  
-2026-05-25
-:::
-
-::: {.update-card}
-**Publication**  
-[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
-Nature Communications, 2025-11-28
-:::
-
-::: {.update-card}
-**Blog**  
-[Launching my research website](posts/2026-website-launch/)  
-2026-05-25
-:::
-
-::: {.update-card}
-**Publication**  
-[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
-Nature Communications, 2025-11-28
-:::
-
-::: {.update-card}
+::: {.updates-rotator data-updates-rotator="" aria-live="polite" aria-label="Latest publications and blog posts"}
+::: {.update-card .is-active}
 **Blog**  
 [Launching my research website](posts/2026-website-launch/)  
 2026-05-25
@@ -81,5 +44,29 @@ Nature Communications, 2025-11-28
 Nature Communications, 2025-11-28
 :::
 :::
-:::
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const rotator = document.querySelector("[data-updates-rotator]");
+  if (!rotator) return;
+
+  const cards = Array.from(rotator.querySelectorAll(".update-card"));
+  if (cards.length <= 1) return;
+
+  let activeIndex = 0;
+  const showCard = (nextIndex) => {
+    cards.forEach((card, index) => {
+      const isActive = index === nextIndex;
+      card.classList.toggle("is-active", isActive);
+      card.toggleAttribute("hidden", !isActive);
+    });
+  };
+
+  showCard(activeIndex);
+  window.setInterval(() => {
+    activeIndex = (activeIndex + 1) % cards.length;
+    showCard(activeIndex);
+  }, 10000);
+});
+</script>
 :::
