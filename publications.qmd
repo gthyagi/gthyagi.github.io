@@ -1,11 +1,9 @@
 ---
 title: "Publications"
-toc: false
+toc: true
 ---
 
-## Journal Articles
-
-1. Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. *Earth and Planetary Science Letters*. Submitted.
+## Refereed (Peer-Reviewed) Journal Articles
 
 1. Capitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. *Nature Communications*. <https://doi.org/10.1038/s41467-025-65824-7>
 
@@ -17,6 +15,23 @@ toc: false
 
 1. Ghosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. *Geophysical Research Letters*. <https://doi.org/10.1002/2017GL075392>
 
-## Reports and Manuscripts
+## Working Papers & Papers Under Review
 
-This page will also collect benchmark reports, software notes, and manuscripts as they become publicly available.
+1. Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. *Earth and Planetary Science Letters*. Submitted.
+
+## My Thesis
+
+1. Gollapalli, T. (2022). *Unravelling tectonic coupling and loading along Sunda margin through 3-D regional numerical modelling*. Doctoral thesis, Monash University and Indian Institute of Technology Bombay.
+
+1. Gollapalli, T. (2017). *One-dimensional totally asymmetric simple exclusion process*. Undergraduate thesis, Indian Institute of Science.
+
+## Github Repos with DOI
+
+1. Underworld3: <https://github.com/underworldcode/underworld3>  
+   Software archive DOI: <https://doi.org/10.5281/zenodo.16812088>
+
+## Media Coverage
+
+1. Hargreaves, M. (2022). Unlocking the secrets of great earthquakes with deep learning. *Monash DeepNeuron*. <https://deepneuron.org/blogs/8r20f2vr3vn05h9fuao62tj7anhr39>
+
+1. Gollapalli, T. (2020). Advanced geodynamic models of giant earthquakes. *European Geosciences Union Geodynamics Blog*. <https://blogs.egu.eu/divisions/gd/2020/09/16/giant-earthquakes/>
