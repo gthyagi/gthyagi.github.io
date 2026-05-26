@@ -3,28 +3,21 @@ title: "Thyagarajulu Gollapalli"
 subtitle: "Geodynamics | Geophysics | Numerical Modelling | Research Software"
 image: assets/img/profile.jpeg
 toc: false
-about:
-  template: trestles
-  image-width: 260px
-  image-shape: round
-  links:
-    - text: "CV"
-      href: cv.qmd
-    - icon: github
-      href: https://github.com/gthyagi
-    - icon: linkedin
-      href: https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/
-    - text: '<i class="ai ai-google-scholar"></i>'
-      href: https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en
-    - icon: envelope
-      href: mailto:gthyagi@gmail.com
 ---
 
-### Welcome to my research website
-
+::: {.home-hero}
+::: {.home-hero-text}
 I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.
 
-My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
+My work focuses on Underworld development, finite-element geodynamic modelling, subduction-zone dynamics, megathrust seismicity, and reproducible scientific computing.
+
+[About](about.qmd){.btn .btn-primary} [Research](research.qmd){.btn .btn-outline-primary} [Software](software.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.home-hero-photo}
+![](assets/img/profile.jpeg){fig-alt="Portrait of Thyagarajulu Gollapalli"}
+:::
+:::
 
 ## Research interests
 
