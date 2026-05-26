@@ -28,4 +28,58 @@ I am a Research Officer and Software Engineer at the Australian National Univers
 
 My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
 
-You can read more about my background on the [About](about.qmd) page, explore my [research](research.qmd), or see my open-source and benchmarking work on the [Software](software.qmd) page.
+::: {.home-updates}
+#### Latest publications and blog posts
+
+::: {.updates-marquee aria-label="Latest publications and blog posts"}
+::: {.updates-track}
+::: {.update-card}
+**Blog**  
+[Launching my research website](posts/2026-website-launch/)  
+2026-05-25
+:::
+
+::: {.update-card}
+**Publication**  
+[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
+Nature Communications, 2025-11-28
+:::
+
+::: {.update-card}
+**Blog**  
+[Launching my research website](posts/2026-website-launch/)  
+2026-05-25
+:::
+
+::: {.update-card}
+**Publication**  
+[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
+Nature Communications, 2025-11-28
+:::
+
+::: {.update-card}
+**Blog**  
+[Launching my research website](posts/2026-website-launch/)  
+2026-05-25
+:::
+
+::: {.update-card}
+**Publication**  
+[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
+Nature Communications, 2025-11-28
+:::
+
+::: {.update-card}
+**Blog**  
+[Launching my research website](posts/2026-website-launch/)  
+2026-05-25
+:::
+
+::: {.update-card}
+**Publication**  
+[Bridging the gap between subduction dynamics and the long-term strength of megathrusts](publications.qmd)  
+Nature Communications, 2025-11-28
+:::
+:::
+:::
+:::

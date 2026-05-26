@@ -101,6 +101,87 @@ div.quarto-about-trestles img.about-image {
   object-position: center center;
 }
 
+.home-updates {
+  border-top: 1px solid rgba($blue, 0.16);
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+}
+
+.home-updates h4 {
+  color: $primary-color-dark;
+  margin-bottom: 0.75rem;
+}
+
+.updates-marquee {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.updates-marquee::before,
+.updates-marquee::after {
+  content: "";
+  height: 100%;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 3rem;
+  z-index: 2;
+}
+
+.updates-marquee::before {
+  background: linear-gradient(90deg, $body-bg, rgba($body-bg, 0));
+  left: 0;
+}
+
+.updates-marquee::after {
+  background: linear-gradient(270deg, $body-bg, rgba($body-bg, 0));
+  right: 0;
+}
+
+.updates-track {
+  animation: updates-scroll 36s linear infinite;
+  display: flex;
+  gap: 1rem;
+  width: max-content;
+}
+
+.updates-marquee:hover .updates-track,
+.updates-marquee:focus-within .updates-track {
+  animation-play-state: paused;
+}
+
+.update-card {
+  background: white;
+  border: 1px solid rgba($blue, 0.16);
+  border-radius: 5px;
+  box-shadow: 0 4px 16px rgba(32, 54, 71, 0.06);
+  flex: 0 0 280px;
+  min-height: 8rem;
+  padding: 0.85rem;
+}
+
+.update-card p {
+  margin-bottom: 0.35rem;
+}
+
+.update-card strong {
+  color: $secondary-color;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+@keyframes updates-scroll {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(calc(-50% - 0.5rem));
+  }
+}
+
 .interest-grid {
   display: grid;
   gap: 1rem;
@@ -157,5 +238,9 @@ footer.footer a {
 @media (max-width: 767px) {
   div.quarto-about-trestles .about-entity {
     text-align: center;
+  }
+
+  .update-card {
+    flex-basis: 240px;
   }
 }
