@@ -21,8 +21,6 @@ website:
     image: assets/img/profile.jpeg
   navbar:
     right:
-      - text: "Home"
-        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Research"
