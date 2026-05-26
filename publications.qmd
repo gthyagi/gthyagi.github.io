@@ -5,15 +5,15 @@ toc: true
 
 ## Journal Articles (Peer-Reviewed)
 
-1. Ghosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. *Geophysical Research Letters*. <https://doi.org/10.1002/2017GL075392>
+1. Capitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. *Nature Communications*. <https://doi.org/10.1038/s41467-025-65824-7>
 
-2. Zuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. *Tectonics*. <https://doi.org/10.1029/2022TC007242>
+2. Moresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. *Journal of Open Source Software*. <https://doi.org/10.21105/joss.07831>
 
 3. Graciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. *Journal of Geophysical Research: Solid Earth*. <https://doi.org/10.1029/2024JB028774>
 
-4. Moresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. *Journal of Open Source Software*. <https://doi.org/10.21105/joss.07831>
+4. Zuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. *Tectonics*. <https://doi.org/10.1029/2022TC007242>
 
-5. Capitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. *Nature Communications*. <https://doi.org/10.1038/s41467-025-65824-7>
+5. Ghosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. *Geophysical Research Letters*. <https://doi.org/10.1002/2017GL075392>
 
 ## Working Papers & Papers Under Review
 
@@ -34,6 +34,6 @@ Reports will be added here as they become publicly available.
 
 ## Media Coverage
 
-1. Gollapalli, T. (2020). Advanced geodynamic models of giant earthquakes. *European Geosciences Union Geodynamics Blog*. <https://blogs.egu.eu/divisions/gd/2020/09/16/giant-earthquakes/>
+1. Hargreaves, M. (2022). Unlocking the secrets of great earthquakes with deep learning. *Monash DeepNeuron*. <https://deepneuron.org/blogs/8r20f2vr3vn05h9fuao62tj7anhr39>
 
-2. Hargreaves, M. (2022). Unlocking the secrets of great earthquakes with deep learning. *Monash DeepNeuron*. <https://deepneuron.org/blogs/8r20f2vr3vn05h9fuao62tj7anhr39>
+2. Gollapalli, T. (2020). Advanced geodynamic models of giant earthquakes. *European Geosciences Union Geodynamics Blog*. <https://blogs.egu.eu/divisions/gd/2020/09/16/giant-earthquakes/>
