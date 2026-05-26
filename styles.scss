@@ -97,6 +97,8 @@ div.quarto-about-trestles .about-entity .about-link:hover {
 
 div.quarto-about-trestles img.about-image {
   box-shadow: 0 12px 30px rgba(32, 54, 71, 0.18);
+  object-fit: cover;
+  object-position: center 34%;
 }
 
 .interest-grid {
