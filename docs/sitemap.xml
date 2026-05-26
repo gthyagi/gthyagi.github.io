@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gthyagi.github.io/blog.html</loc>
-    <lastmod>2026-05-26T14:02:23.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gthyagi.github.io/software.html</loc>
-    <lastmod>2026-05-26T14:02:23.280Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gthyagi.github.io/publications.html</loc>
-    <lastmod>2026-05-26T14:02:23.279Z</lastmod>
+    <loc>https://gthyagi.github.io/about.html</loc>
+    <lastmod>2026-05-26T14:03:05.237Z</lastmod>
   </url>
   <url>
     <loc>https://gthyagi.github.io/talks.html</loc>
-    <lastmod>2026-05-25T05:34:16.038Z</lastmod>
+    <lastmod>2026-05-26T14:03:05.246Z</lastmod>
   </url>
   <url>
     <loc>https://gthyagi.github.io/contact.html</loc>
-    <lastmod>2026-05-26T14:02:23.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gthyagi.github.io/research.html</loc>
-    <lastmod>2026-05-25T06:10:20.251Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gthyagi.github.io/posts/2026-website-launch/index.html</loc>
-    <lastmod>2026-05-25T05:34:16.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gthyagi.github.io/index.html</loc>
-    <lastmod>2026-05-26T13:56:48.427Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gthyagi.github.io/about.html</loc>
-    <lastmod>2026-05-26T13:56:19.854Z</lastmod>
+    <lastmod>2026-05-26T14:03:05.238Z</lastmod>
   </url>
   <url>
     <loc>https://gthyagi.github.io/cv.html</loc>
-    <lastmod>2026-05-26T14:02:23.281Z</lastmod>
+    <lastmod>2026-05-26T14:03:05.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gthyagi.github.io/posts/2026-website-launch/index.html</loc>
+    <lastmod>2026-05-26T14:03:05.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gthyagi.github.io/publications.html</loc>
+    <lastmod>2026-05-26T14:03:05.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gthyagi.github.io/blog.html</loc>
+    <lastmod>2026-05-26T14:03:05.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gthyagi.github.io/index.html</loc>
+    <lastmod>2026-05-26T14:03:05.245Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gthyagi.github.io/software.html</loc>
+    <lastmod>2026-05-26T14:03:05.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gthyagi.github.io/research.html</loc>
+    <lastmod>2026-05-26T14:03:05.246Z</lastmod>
   </url>
 </urlset>
