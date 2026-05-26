@@ -1,41 +1,57 @@
 ---
-title: "Thyagarajulu Gollapalli"
-subtitle: "Geodynamics | Geophysics | Numerical Modelling | Research Software"
-image: assets/img/profile.jpeg
-toc: false
-about:
-  template: trestles
-  image-width: 260px
-  image-shape: round
-  links:
-    - text: "CV"
-      href: cv.qmd
-    - icon: github
-      href: https://github.com/gthyagi
-    - icon: linkedin
-      href: https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/
-    - text: '<i class="ai ai-google-scholar"></i>'
-      href: https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en
-    - icon: envelope
-      href: mailto:gthyagi@gmail.com
+title: "About"
+toc: true
+toc-location: left
+preview: assets/img/profile.jpeg
+lightbox: true
+execute:
+  echo: false
+  warning: false
 ---
 
-### About
+Welcome! I am a Research Officer and Software Engineer at the Australian National University. My work connects computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software. See my [CV](cv.qmd) for more details.
 
-I am a Research Officer and Software Engineer at the Australian National University. My work connects computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.
+# Short Bio
 
-I contribute to the Underworld geodynamics codebase, including core development, user-facing interfaces, testing, debugging, documentation, and training. My research interests include finite-element methods, Stokes-flow benchmarks, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
+Thyagarajulu Gollapalli is a Research Officer and Software Engineer at the Australian National University. His work focuses on computational geodynamics, geophysics, numerical modelling, and open-source scientific software. He contributes to the Underworld geodynamics codebase, including core development, user-facing interfaces, testing, debugging, documentation, and training.
 
-## Background
+His research interests include finite-element methods, Stokes-flow benchmarks, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing. He holds a PhD in Computational Geodynamics and Geophysics from Monash University and IIT Bombay, and a Bachelor of Science in Mathematics with Earth & Environmental Science from the Indian Institute of Science.
 
-- Research Officer / Software Engineer, Australian National University.
-- Senior Research Officer / Software Engineer, Monash University and AuScope.
-- PhD in Computational Geodynamics and Geophysics, Monash University and IIT Bombay.
-- Bachelor of Science in Mathematics, with Earth & Environmental Science, Indian Institute of Science.
+# Brief Summary of My Research
 
-## Current focus
+My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation.
+
+I work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling.
+
+My broader geophysical background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation.
+
+You can see more about my research on my [Research page](research.qmd).
+
+# Open Source Software
+
+I contribute to the Underworld geodynamics codebase as an open-source developer, with work spanning core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.
+
+Current software and benchmarking interests include:
 
 - Underworld and Underworld3 software development.
 - Annulus and spherical-shell finite-element benchmarks.
 - PETSc, MPI, and HPC workflows for reproducible geodynamics.
-- Subduction-zone and megathrust dynamics.
+- Boundary diagnostics, convergence studies, and benchmark verification.
+- Python-based scientific computing for geodynamics workflows.
+
+You can see more of my source code and projects on GitHub: <https://github.com/gthyagi>
+
+# Teaching, Workshops, and Training
+
+I have taught and supported geophysics, spatial analysis, and Earth science courses, including undergraduate geophysical interpretation and postgraduate spatial analysis and modelling.
+
+I have also contributed to Underworld workshops and training activities at Curtin University, AuScope, and the University of Sydney, with emphasis on practical geodynamics modelling, research software workflows, and reproducibility.
+
+# Contact
+
+For research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.
+
+- Email: <gthyagi@gmail.com>
+- GitHub: <https://github.com/gthyagi>
+- LinkedIn: <https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/>
+- Google Scholar: <https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en>

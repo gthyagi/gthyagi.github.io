@@ -99,37 +99,6 @@ div.quarto-about-trestles img.about-image {
   box-shadow: 0 12px 30px rgba(32, 54, 71, 0.18);
 }
 
-.home-hero {
-  align-items: center;
-  display: grid;
-  gap: 2rem;
-  grid-template-columns: minmax(0, 1.45fr) minmax(220px, 0.55fr);
-  margin: 1.5rem 0 2.5rem;
-}
-
-.home-hero h1 {
-  font-size: clamp(2.4rem, 5vw, 4rem);
-  margin-bottom: 1rem;
-}
-
-.home-hero p {
-  font-size: 1.08rem;
-  max-width: 760px;
-}
-
-.home-hero-photo {
-  text-align: center;
-}
-
-.home-hero-photo img {
-  aspect-ratio: 1;
-  border-radius: 50%;
-  box-shadow: 0 12px 30px rgba(32, 54, 71, 0.18);
-  max-width: 260px;
-  object-fit: cover;
-  width: 100%;
-}
-
 .interest-grid {
   display: grid;
   gap: 1rem;
@@ -186,13 +155,5 @@ footer.footer a {
 @media (max-width: 767px) {
   div.quarto-about-trestles .about-entity {
     text-align: center;
-  }
-
-  .home-hero {
-    grid-template-columns: 1fr;
-  }
-
-  .home-hero-photo {
-    order: -1;
   }
 }

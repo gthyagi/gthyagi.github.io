@@ -1,58 +1,31 @@
 ---
 title: "Thyagarajulu Gollapalli"
-subtitle: "Geodynamics | Geophysics | Numerical Modelling | Research Software"
 image: assets/img/profile.jpeg
 toc: false
+execute:
+  echo: false
+  warning: false
+about:
+  template: trestles
+  image-width: 260px
+  image-shape: round
+  links:
+    - text: "CV"
+      href: cv.qmd
+    - icon: github
+      href: https://github.com/gthyagi
+    - icon: linkedin
+      href: https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/
+    - text: '<i class="ai ai-google-scholar"></i>'
+      href: https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en
+    - icon: envelope
+      href: mailto:gthyagi@gmail.com
 ---
 
-::: {.home-hero}
-::: {.home-hero-text}
+### Welcome to my research website!
+
 I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.
 
-My work focuses on Underworld development, finite-element geodynamic modelling, subduction-zone dynamics, megathrust seismicity, and reproducible scientific computing.
+My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
 
-[About](about.qmd){.btn .btn-primary} [Research](research.qmd){.btn .btn-outline-primary} [Software](software.qmd){.btn .btn-outline-primary}
-:::
-
-::: {.home-hero-photo}
-![](assets/img/profile.jpeg){fig-alt="Portrait of Thyagarajulu Gollapalli"}
-:::
-:::
-
-## Research interests
-
-::: {.interest-grid}
-::: {.research-card}
-### Computational geodynamics
-
-Numerical models of mantle and lithosphere dynamics, including Stokes-flow systems, subduction margins, tectonic loading, and benchmark problems.
-:::
-
-::: {.research-card}
-### Geophysics and Earth systems
-
-Gravity, geoid, seismic imaging, geophysical interpretation, GIS, and links between observations and process-based models.
-:::
-
-::: {.research-card}
-### Research software
-
-Development, testing, documentation, and training for open-source geodynamics tools, especially Underworld and Python-based modelling workflows.
-:::
-:::
-
-## Featured work
-
-- **Underworld3 development:** open-source development for geodynamics modelling, user-facing interfaces, testing, debugging, documentation, and training.
-- **Megathrust and subduction dynamics:** numerical modelling of tectonic coupling and loading along active convergent margins, including the Sunda margin.
-- **Benchmarking and reproducibility:** finite-element benchmarks, PETSc-based workflows, HPC diagnostics, and reproducible scientific computing.
-
-## Selected links
-
-- GitHub: <https://github.com/gthyagi>
-- Underworld3: <https://github.com/underworldcode/underworld3>
-- UW3 annulus and spherical benchmarks: <https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks>
-
-## Recent notes
-
-Short technical notes and updates are collected on the [blog](blog.qmd).
+You can read more about my background on the [About](about.qmd) page, explore my [research](research.qmd), or see my open-source and benchmarking work on the [Software](software.qmd) page.
