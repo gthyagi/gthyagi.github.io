@@ -1,66 +1,10 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi\n\n\n\n\n\n\nRepository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics\n\n\n\n\n\n\nPython, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows\n\n\n\n\nI have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
-  },
-  {
-    "objectID": "software.html#underworld-and-underworld3",
-    "href": "software.html#underworld-and-underworld3",
-    "title": "Software",
-    "section": "",
-    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi"
-  },
-  {
-    "objectID": "software.html#benchmark-repositories",
-    "href": "software.html#benchmark-repositories",
-    "title": "Software",
-    "section": "",
-    "text": "Repository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics"
-  },
-  {
-    "objectID": "software.html#tools-and-methods",
-    "href": "software.html#tools-and-methods",
-    "title": "Software",
-    "section": "",
-    "text": "Python, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows"
-  },
-  {
-    "objectID": "software.html#training-and-documentation",
-    "href": "software.html#training-and-documentation",
-    "title": "Software",
-    "section": "",
-    "text": "I have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. Earth and Planetary Science Letters. Submitted.\nCapitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. Nature Communications. https://doi.org/10.1038/s41467-025-65824-7\nMoresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. Journal of Open Source Software. https://doi.org/10.21105/joss.07831\nGraciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. Journal of Geophysical Research: Solid Earth. https://doi.org/10.1029/2024JB028774\nZuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. Tectonics. https://doi.org/10.1029/2022TC007242\nGhosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. Geophysical Research Letters. https://doi.org/10.1002/2017GL075392\n\n\n\n\nThis page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "",
-    "text": "Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. Earth and Planetary Science Letters. Submitted.\nCapitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. Nature Communications. https://doi.org/10.1038/s41467-025-65824-7\nMoresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. Journal of Open Source Software. https://doi.org/10.21105/joss.07831\nGraciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. Journal of Geophysical Research: Solid Earth. https://doi.org/10.1029/2024JB028774\nZuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. Tectonics. https://doi.org/10.1029/2022TC007242\nGhosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. Geophysical Research Letters. https://doi.org/10.1002/2017GL075392"
-  },
-  {
-    "objectID": "publications.html#reports-and-manuscripts",
-    "href": "publications.html#reports-and-manuscripts",
-    "title": "Publications",
-    "section": "",
-    "text": "This page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
+    "text": "Welcome! I am a Research Officer and Software Engineer at the Australian National University. My work connects computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software. See my CV for more details.\n\nShort Bio\nThyagarajulu Gollapalli is a Research Officer and Software Engineer at the Australian National University. His work focuses on computational geodynamics, geophysics, numerical modelling, and open-source scientific software. He contributes to the Underworld geodynamics codebase, including core development, user-facing interfaces, testing, debugging, documentation, and training.\nHis research interests include finite-element methods, Stokes-flow benchmarks, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing. He holds a PhD in Computational Geodynamics and Geophysics from Monash University and IIT Bombay, and a Bachelor of Science in Mathematics with Earth & Environmental Science from the Indian Institute of Science.\n\n\nBrief Summary of My Research\nMy research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation.\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling.\nMy broader geophysical background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation.\nYou can see more about my research on my Research page.\n\n\nOpen Source Software\nI contribute to the Underworld geodynamics codebase as an open-source developer, with work spanning core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nCurrent software and benchmarking interests include:\n\nUnderworld and Underworld3 software development.\nAnnulus and spherical-shell finite-element benchmarks.\nPETSc, MPI, and HPC workflows for reproducible geodynamics.\nBoundary diagnostics, convergence studies, and benchmark verification.\nPython-based scientific computing for geodynamics workflows.\n\nYou can see more of my source code and projects on GitHub: https://github.com/gthyagi\n\n\nTeaching, Workshops, and Training\nI have taught and supported geophysics, spatial analysis, and Earth science courses, including undergraduate geophysical interpretation and postgraduate spatial analysis and modelling.\nI have also contributed to Underworld workshops and training activities at Curtin University, AuScope, and the University of Sydney, with emphasis on practical geodynamics modelling, research software workflows, and reproducibility.\n\n\nContact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLinkedIn: https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/\nGoogle Scholar: https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en"
   },
   {
     "objectID": "talks.html",
@@ -96,69 +40,6 @@
     "title": "Contact",
     "section": "",
     "text": "Contact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLocation: Canberra, ACT, Australia"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "",
-    "text": "My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation."
-  },
-  {
-    "objectID": "research.html#computational-geodynamics",
-    "href": "research.html#computational-geodynamics",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Computational Geodynamics",
-    "text": "Computational Geodynamics\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling."
-  },
-  {
-    "objectID": "research.html#subduction-zone-dynamics",
-    "href": "research.html#subduction-zone-dynamics",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Subduction-Zone Dynamics",
-    "text": "Subduction-Zone Dynamics\nMy work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes."
-  },
-  {
-    "objectID": "research.html#geophysics-and-earth-observation",
-    "href": "research.html#geophysics-and-earth-observation",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Geophysics and Earth Observation",
-    "text": "Geophysics and Earth Observation\nMy background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation."
-  },
-  {
-    "objectID": "research.html#numerical-benchmarks",
-    "href": "research.html#numerical-benchmarks",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Numerical Benchmarks",
-    "text": "Numerical Benchmarks\nBenchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks."
-  },
-  {
-    "objectID": "research.html#scientific-software",
-    "href": "research.html#scientific-software",
-    "title": "Research - Thyagarajulu Gollapalli",
-    "section": "Scientific Software",
-    "text": "Scientific Software\nI contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
-  },
-  {
-    "objectID": "posts/2026-website-launch/index.html",
-    "href": "posts/2026-website-launch/index.html",
-    "title": "Launching my research website",
-    "section": "",
-    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Thyagarajulu Gollapalli",
-    "section": "",
-    "text": "Welcome to my research website!\nI am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.\nMy current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.\nYou can read more about my background on the About page, explore my research, or see my open-source and benchmarking work on the Software page."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome! I am a Research Officer and Software Engineer at the Australian National University. My work connects computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software. See my CV for more details.\n\nShort Bio\nThyagarajulu Gollapalli is a Research Officer and Software Engineer at the Australian National University. His work focuses on computational geodynamics, geophysics, numerical modelling, and open-source scientific software. He contributes to the Underworld geodynamics codebase, including core development, user-facing interfaces, testing, debugging, documentation, and training.\nHis research interests include finite-element methods, Stokes-flow benchmarks, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing. He holds a PhD in Computational Geodynamics and Geophysics from Monash University and IIT Bombay, and a Bachelor of Science in Mathematics with Earth & Environmental Science from the Indian Institute of Science.\n\n\nBrief Summary of My Research\nMy research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation.\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling.\nMy broader geophysical background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation.\nYou can see more about my research on my Research page.\n\n\nOpen Source Software\nI contribute to the Underworld geodynamics codebase as an open-source developer, with work spanning core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nCurrent software and benchmarking interests include:\n\nUnderworld and Underworld3 software development.\nAnnulus and spherical-shell finite-element benchmarks.\nPETSc, MPI, and HPC workflows for reproducible geodynamics.\nBoundary diagnostics, convergence studies, and benchmark verification.\nPython-based scientific computing for geodynamics workflows.\n\nYou can see more of my source code and projects on GitHub: https://github.com/gthyagi\n\n\nTeaching, Workshops, and Training\nI have taught and supported geophysics, spatial analysis, and Earth science courses, including undergraduate geophysical interpretation and postgraduate spatial analysis and modelling.\nI have also contributed to Underworld workshops and training activities at Curtin University, AuScope, and the University of Sydney, with emphasis on practical geodynamics modelling, research software workflows, and reproducibility.\n\n\nContact\nFor research, software, collaboration, or academic enquiries, please contact me by email or through GitHub.\n\nEmail: gthyagi@gmail.com\nGitHub: https://github.com/gthyagi\nLinkedIn: https://www.linkedin.com/in/thyagarajulu-gollapalli-phd-0838b856/\nGoogle Scholar: https://scholar.google.com/citations?user=QBL8V-MAAAAJ&hl=en"
   },
   {
     "objectID": "cv.html",
@@ -215,5 +96,124 @@
     "title": "CV",
     "section": "",
     "text": "A public CV PDF can be added at assets/pdf/cv.pdf when ready."
+  },
+  {
+    "objectID": "posts/2026-website-launch/index.html",
+    "href": "posts/2026-website-launch/index.html",
+    "title": "Launching my research website",
+    "section": "",
+    "text": "This website collects notes on geodynamics, numerical modelling, Underworld development, geophysical workflows, and reproducible scientific computing."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. Earth and Planetary Science Letters. Submitted.\nCapitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. Nature Communications. https://doi.org/10.1038/s41467-025-65824-7\nMoresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. Journal of Open Source Software. https://doi.org/10.21105/joss.07831\nGraciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. Journal of Geophysical Research: Solid Earth. https://doi.org/10.1029/2024JB028774\nZuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. Tectonics. https://doi.org/10.1029/2022TC007242\nGhosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. Geophysical Research Letters. https://doi.org/10.1002/2017GL075392\n\n\n\n\nThis page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. Earth and Planetary Science Letters. Submitted.\nCapitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. Nature Communications. https://doi.org/10.1038/s41467-025-65824-7\nMoresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. Journal of Open Source Software. https://doi.org/10.21105/joss.07831\nGraciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. Journal of Geophysical Research: Solid Earth. https://doi.org/10.1029/2024JB028774\nZuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. Tectonics. https://doi.org/10.1029/2022TC007242\nGhosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. Geophysical Research Letters. https://doi.org/10.1002/2017GL075392"
+  },
+  {
+    "objectID": "publications.html#reports-and-manuscripts",
+    "href": "publications.html#reports-and-manuscripts",
+    "title": "Publications",
+    "section": "",
+    "text": "This page will also collect benchmark reports, software notes, and manuscripts as they become publicly available."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching my research website\n\n\n\nresearch\n\nsoftware\n\nquarto\n\n\n\n\n\n\n\n\n\nMay 25, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thyagarajulu Gollapalli",
+    "section": "",
+    "text": "Welcome to my research website!\nI am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.\nMy current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.\nYou can read more about my background on the About page, explore my research, or see my open-source and benchmarking work on the Software page."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi\n\n\n\n\n\n\nRepository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics\n\n\n\n\n\n\nPython, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows\n\n\n\n\nI have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+  },
+  {
+    "objectID": "software.html#underworld-and-underworld3",
+    "href": "software.html#underworld-and-underworld3",
+    "title": "Software",
+    "section": "",
+    "text": "I work on the Underworld geodynamics codebase as an open-source developer, contributing to core features, user-facing interfaces, testing, debugging, documentation, and training for the geodynamics community.\nUnderworld3 is a Python-based geodynamics modelling framework built around PETSc, symbolic problem specification, and modern finite-element workflows.\n\nUnderworld3 upstream: https://github.com/underworldcode/underworld3\nGitHub profile: https://github.com/gthyagi"
+  },
+  {
+    "objectID": "software.html#benchmark-repositories",
+    "href": "software.html#benchmark-repositories",
+    "title": "Software",
+    "section": "",
+    "text": "Repository: https://github.com/gthyagi/UW3_Annulus_Spherical_Benchmarks\nThis work supports reproducible verification and benchmarking of geodynamic modelling workflows, including:\n\nAnnulus and spherical-shell Stokes-flow benchmarks\nTaylor-Hood finite elements\nCurved-domain and spherical geometry problems\nPenalty and Nitsche-style free-slip boundary conditions\nBoundary diagnostics and convergence checks\nHPC scaling and PETSc timing diagnostics"
+  },
+  {
+    "objectID": "software.html#tools-and-methods",
+    "href": "software.html#tools-and-methods",
+    "title": "Software",
+    "section": "",
+    "text": "Python, Shell, AWK, MATLAB, C, Julia, R\nPETSc, petsc4py, MPI, HPC workflows\nSymPy, NumPy, Matplotlib, Cartopy, Plotly, PyVista, ParaView\nUnderworld, CitcomS, Litmod-3D, ASPECT, GPlates\nGmsh, HDF5, XDMF, Git, Docker\nGIS and geophysical data processing workflows"
+  },
+  {
+    "objectID": "software.html#training-and-documentation",
+    "href": "software.html#training-and-documentation",
+    "title": "Software",
+    "section": "",
+    "text": "I have contributed to Underworld workshops and user-facing documentation for the geodynamics community, including events at Curtin University, AuScope, and the University of Sydney."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "",
+    "text": "My research combines computational geodynamics, geophysics, and scientific computing to understand Earth processes through numerical modelling and data-informed interpretation."
+  },
+  {
+    "objectID": "research.html#computational-geodynamics",
+    "href": "research.html#computational-geodynamics",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Computational Geodynamics",
+    "text": "Computational Geodynamics\nI work on numerical models of tectonic and mantle processes, with emphasis on subduction-zone dynamics, tectonic coupling, lithospheric deformation, and long-term loading along active margins. My PhD research investigated tectonic coupling and loading along the Sunda margin through three-dimensional regional numerical modelling."
+  },
+  {
+    "objectID": "research.html#subduction-zone-dynamics",
+    "href": "research.html#subduction-zone-dynamics",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Subduction-Zone Dynamics",
+    "text": "Subduction-Zone Dynamics\nMy work connects geodynamic models with megathrust seismicity, subduction-interface mechanics, and tectonic loading. I am interested in how far-field forcing, slab geometry, rheology, and regional structure influence deformation and seismic hazard-relevant processes."
+  },
+  {
+    "objectID": "research.html#geophysics-and-earth-observation",
+    "href": "research.html#geophysics-and-earth-observation",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Geophysics and Earth Observation",
+    "text": "Geophysics and Earth Observation\nMy background includes gravity and geoid modelling, seismic processing and imaging, GIS, and geophysical data acquisition and interpretation. This observational foundation supports model design, validation, and interpretation."
+  },
+  {
+    "objectID": "research.html#numerical-benchmarks",
+    "href": "research.html#numerical-benchmarks",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Numerical Benchmarks",
+    "text": "Numerical Benchmarks\nBenchmarking is central to reproducible geodynamics. Current interests include annulus and spherical-shell Stokes benchmarks, Taylor-Hood finite elements, curved-domain modelling, boundary diagnostics, convergence studies, and PETSc/MPI performance checks."
+  },
+  {
+    "objectID": "research.html#scientific-software",
+    "href": "research.html#scientific-software",
+    "title": "Research - Thyagarajulu Gollapalli",
+    "section": "Scientific Software",
+    "text": "Scientific Software\nI contribute to scientific software for geodynamics, including development and verification of the Underworld codebase. This includes core features, user-facing APIs, documentation, training materials, debugging, and reproducible workflows for desktop, HPC, and cloud environments."
   }
 ]
