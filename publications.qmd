@@ -5,15 +5,17 @@ toc: true
 
 ## Journal Articles (Peer-Reviewed)
 
-1. Capitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. *Nature Communications*. <https://doi.org/10.1038/s41467-025-65824-7>
+<ol reversed>
+<li>Capitanio, F. A., Gollapalli, T., Munukutla, R., Graciosa, J. C., Zuhair, M., Beall, A., & Dal Zilio, L. (2025). Bridging the gap between subduction dynamics and the long-term strength of megathrusts. <em>Nature Communications</em>. <a href="https://doi.org/10.1038/s41467-025-65824-7">https://doi.org/10.1038/s41467-025-65824-7</a></li>
 
-2. Moresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. *Journal of Open Source Software*. <https://doi.org/10.21105/joss.07831>
+<li>Moresi, L., Mansour, J., Giordani, J., Knepley, M., Knight, B., Graciosa, J. C., Gollapalli, T., Lu, N., & Beucher, R. (2025). Underworld3: Mathematically self-describing modelling in Python for desktop, HPC and cloud. <em>Journal of Open Source Software</em>. <a href="https://doi.org/10.21105/joss.07831">https://doi.org/10.21105/joss.07831</a></li>
 
-3. Graciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. *Journal of Geophysical Research: Solid Earth*. <https://doi.org/10.1029/2024JB028774>
+<li>Graciosa, J. C., Capitanio, F. A., Beall, A., Hargreaves, M., Gollapalli, T., Tang, T., & Zuhair, M. (2025). Testing driving mechanisms of megathrust seismicity with explainable artificial intelligence. <em>Journal of Geophysical Research: Solid Earth</em>. <a href="https://doi.org/10.1029/2024JB028774">https://doi.org/10.1029/2024JB028774</a></li>
 
-4. Zuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. *Tectonics*. <https://doi.org/10.1029/2022TC007242>
+<li>Zuhair, M., Gollapalli, T., Capitanio, F. A., Betts, P. G., & Graciosa, J. C. (2022). The role of slab step on tectonic loading along subduction zones: Inferences on the seismotectonics of the Sunda convergent margin. <em>Tectonics</em>. <a href="https://doi.org/10.1029/2022TC007242">https://doi.org/10.1029/2022TC007242</a></li>
 
-5. Ghosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. *Geophysical Research Letters*. <https://doi.org/10.1002/2017GL075392>
+<li>Ghosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. <em>Geophysical Research Letters</em>. <a href="https://doi.org/10.1002/2017GL075392">https://doi.org/10.1002/2017GL075392</a></li>
+</ol>
 
 ## Working Papers & Papers Under Review
 
