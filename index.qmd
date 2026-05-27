@@ -22,11 +22,11 @@ about:
       href: mailto:gthyagi@gmail.com
 ---
 
-### Welcome to my research website!
+### Welcome to my website!
 
-I am a Research Officer and Software Engineer at the Australian National University, working across computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software.
+I am Thyagi, a Research Officer and Software Engineer at the Australian National University, where I contribute to the Underworld geodynamics software ecosystem and associated tools. My work integrates computational geodynamics, geophysics, structural geology, scientific software development, and high-performance computing for Earth science applications.
 
-My current work focuses on the Underworld geodynamics codebase, with interests in finite-element modelling, subduction-zone dynamics, megathrust seismicity, geophysical data interpretation, and reproducible scientific computing.
+I am particularly interested in subduction dynamics, megathrust earthquakes, mantle convection, and fault representation in geodynamic models, with an emphasis on numerical methods, reproducible workflows, and open-source computational modelling.
 
 ::: {.home-updates}
 #### Latest publications and blog posts
