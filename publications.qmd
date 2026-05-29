@@ -17,13 +17,13 @@ toc: true
 <li>Ghosh, A., Gollapalli, T., & Steinberger, B. (2017). The importance of upper mantle heterogeneity in generating the Indian Ocean geoid low. <em>Geophysical Research Letters</em>. <a href="https://doi.org/10.1002/2017GL075392">https://doi.org/10.1002/2017GL075392</a></li>
 </ol>
 
-## Working Papers & Papers Under Review
+## In Progress & Under Review Papers
 
 1. Khalil, H., Gollapalli, T., Capitanio, F. A., Knight, B., & Brune, S. How far-field rotational motion drives rift evolution. *Earth and Planetary Science Letters*. Submitted.
 
 ## My Thesis
 
-1. Gollapalli, T. (2022). *Unravelling tectonic coupling and loading along Sunda margin through 3-D regional numerical modelling*. Doctoral thesis, Monash University and Indian Institute of Technology Bombay.
+1. Gollapalli, T. (2022). *Unravelling tectonic coupling and loading along Sunda margin through 3-D regional numerical modelling*. Doctoral thesis, Monash University and Indian Institute of Technology Bombay. <https://bridges.monash.edu/articles/thesis/Unravelling_tectonic_coupling_and_loading_along_the_Sunda_margin_through_3-D_regional_numerical_modelling/21664034?file=38404226>
 
 ## Reports
 
