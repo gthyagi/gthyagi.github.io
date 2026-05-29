@@ -23,7 +23,7 @@ toc: true
 
 ## My Thesis
 
-1. Gollapalli, T. (2022). *Unravelling tectonic coupling and loading along Sunda margin through 3-D regional numerical modelling*. Doctoral thesis, Monash University and Indian Institute of Technology Bombay. <https://bridges.monash.edu/articles/thesis/Unravelling_tectonic_coupling_and_loading_along_the_Sunda_margin_through_3-D_regional_numerical_modelling/21664034?file=38404226>
+1. Gollapalli, T. (2022). *Unravelling tectonic coupling and loading along Sunda margin through 3-D regional numerical modelling*. Doctoral thesis, Monash University and Indian Institute of Technology Bombay. [[link]](https://bridges.monash.edu/articles/thesis/Unravelling_tectonic_coupling_and_loading_along_the_Sunda_margin_through_3-D_regional_numerical_modelling/21664034?file=38404226)
 
 ## Reports
 
