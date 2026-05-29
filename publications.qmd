@@ -36,6 +36,8 @@ Reports will be added here as they become publicly available.
 
 ## Media Coverage
 
-1. Hargreaves, M. (2022). Unlocking the secrets of great earthquakes with deep learning. *Monash DeepNeuron*. <https://deepneuron.org/blogs/8r20f2vr3vn05h9fuao62tj7anhr39>
+<ol reversed>
+<li>Hargreaves, M. (2022). Unlocking the secrets of great earthquakes with deep learning. <em>Monash DeepNeuron</em>. <a href="https://deepneuron.org/blogs/8r20f2vr3vn05h9fuao62tj7anhr39">https://deepneuron.org/blogs/8r20f2vr3vn05h9fuao62tj7anhr39</a></li>
 
-2. Gollapalli, T. (2020). Advanced geodynamic models of giant earthquakes. *European Geosciences Union Geodynamics Blog*. <https://blogs.egu.eu/divisions/gd/2020/09/16/giant-earthquakes/>
+<li>Gollapalli, T. (2020). Advanced geodynamic models of giant earthquakes. <em>European Geosciences Union Geodynamics Blog</em>. <a href="https://blogs.egu.eu/divisions/gd/2020/09/16/giant-earthquakes/">https://blogs.egu.eu/divisions/gd/2020/09/16/giant-earthquakes/</a></li>
+</ol>
