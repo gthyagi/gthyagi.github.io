@@ -11,7 +11,7 @@ about:
   image-shape: round
   links:
     - text: "CV"
-      href: cv.qmd
+      href: assets/pdf/CV_Thyagarajulu_Gollapalli.pdf
     - icon: github
       href: https://github.com/gthyagi
     - icon: linkedin

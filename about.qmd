@@ -9,7 +9,7 @@ execute:
   warning: false
 ---
 
-Welcome! I am a Research Officer and Software Engineer at the Australian National University. My work connects computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software. See my [CV](cv.qmd) for more details.
+Welcome! I am a Research Officer and Software Engineer at the Australian National University. My work connects computational geodynamics, geophysics, numerical modelling, high-performance computing, and open-source research software. See my [CV](assets/pdf/CV_Thyagarajulu_Gollapalli.pdf) for more details.
 
 # Short Bio
 

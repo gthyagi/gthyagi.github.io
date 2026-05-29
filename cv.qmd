@@ -42,4 +42,5 @@ title: "CV"
 
 ## Download
 
-A public CV PDF can be added at `assets/pdf/cv.pdf` when ready.
+- [Download full CV](assets/pdf/CV_Thyagarajulu_Gollapalli.pdf)
+- [Download one-page CV](assets/pdf/CV_Thyagarajulu_Gollapalli_one_page.pdf)
