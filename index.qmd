@@ -24,15 +24,11 @@ about:
 
 ### Welcome
 
-I am Thyagi, a computational geoscientist specialising in geodynamics and geophysics.
+I am Thyagi, a computational geoscientist specialising in geodynamics and geophysics. My research is driven by a fundamental question: why do large earthquakes occur? I address this by combining numerical modelling, geophysical observations, and computational methods to investigate dynamic Earth processes.
 
-My research is driven by a fundamental question: why do large earthquakes occur? To address this problem, I combine numerical modelling, geophysical observations, and computational methods to investigate the dynamic processes operating within the Earth.
+My active research focuses on megathrust earthquakes, subduction dynamics, mantle convection, and fault representation in geodynamic models. I am also interested in structural geology, especially modelling faults and fault networks that connect deep Earth dynamics with observable geological processes at the surface.
 
-Areas of active research include megathrust earthquakes, subduction dynamics, mantle convection, and fault representation in geodynamic models, with the goal of understanding how deep Earth processes shape tectonic evolution and contribute to the occurrence of large earthquakes.
-
-I am also interested in structural geology, particularly the modelling of faults and fault networks. These structures accommodate deformation across a wide range of scales and provide an important link between deep Earth dynamics and observable geological processes at the surface.
-
-To investigate these problems, I use open-source computational tools running on high-performance computing systems, often spanning thousands of CPU cores, to model Earth processes across a wide range of spatial and temporal scales. I am an active developer and contributor to the Underworld software and tools, which is widely used for geodynamic modelling and other Earth science applications.
+To study these problems, I use open-source computational tools on high-performance computing systems, often spanning thousands of CPU cores, to model Earth processes across wide spatial and temporal scales. I am an active developer and contributor to Underworld software and tools for geodynamic modelling and Earth science applications.
 
 ::: {.home-updates}
 #### Latest publications and blog posts
