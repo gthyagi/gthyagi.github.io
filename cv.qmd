@@ -42,5 +42,5 @@ title: "CV"
 
 ## Download
 
-- [Download full CV](assets/pdf/CV_Thyagarajulu_Gollapalli.pdf)
-- [Download one-page CV](assets/pdf/CV_Thyagarajulu_Gollapalli_one_page.pdf)
+- [Download full CV](assets/pdf/CV_TG.pdf)
+- [Download one-page CV](assets/pdf/CV_TG_one_page.pdf)
